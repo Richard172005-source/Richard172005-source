@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Ricardo Julian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -27,10 +27,3 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 <a href="https://www.php.net/" target="_blank"> <img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="express" width="48" height="48"/> </a>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
-</p>
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
-</p>
